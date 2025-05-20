@@ -71,7 +71,7 @@ I prioritize the following ways if you need to reach me:
 - Slack: direct messages, channels
 - In person
 - Email 
-- My personal cell (text) — please use this only in emergencies (my DRs and Jen have this number)
+- My personal cell (text) — please use this only in emergencies (my DRs and Manager have this number)
 
 Frequent, high-quality communication is essential to our work. Err on the side of over-communication (dial it up to 11!) and I will help you adapt downward from there. 
 
