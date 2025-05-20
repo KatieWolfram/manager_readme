@@ -107,7 +107,7 @@ What do I expect when you lead delivery:
 - **Suggest the best way to divide the work,** and take full ownership. Work with the other team members on this, make sure they understand it.
 - **Gather feedback on your work.** Ask me, other team members. Be specific, and aim to know where you could improve.
 
-The ability to share and collaborate is an indicator of a strong team. All of us are here to help drive work forward to inspire joy in the everyday life for Target guests. We cannot get there if we are not willing to share ideas and collaborate as much as possible.
+The ability to share and collaborate is an indicator of a strong team. All of us are here to help drive work forward to inspire [$Company] guests and customers. We cannot get there if we are not willing to share ideas and collaborate as much as possible.
 - I expect you to share lots, especially with your immediate team.
 - I expect you to share the decision making, or intentially seek feedback prior to making a decision and be honestly open to other ideas. 
 - I expect you to seek feedback regarding your work.
