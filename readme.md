@@ -18,7 +18,7 @@ TL;DR: I am here to make sure our team is successful, engaged, and working on th
 
 - I maintain sustainable team delivery with high-quality and high-impact outcomes
 - I build skills of all team members, cross-training to avoid any knowledge-silos 
-- I am seen as an expert in Product Security, internally and externally to [$company]
+- I am seen as an expert in Product Security, internally and externally to [$Company]
 - I have strong opinions, weakly held. I really like to question things, understand, and see an issue from all sides
 - I extend my personal leadership culture of positive & effective collaboration beyond my immediate team
 - I am accountable for the decisions the team make, even if I’m not the one making them most of the time (see the balancing of independence & coaching for more context)
@@ -27,10 +27,10 @@ How do I measure my success?
 - Customer satisfaction and value provided
 - Internal team voice survey (specifically related to results for direct manager/leader)
 - Feedback from peers
-- The contribution of my teams towards Target security objectives
+- The contribution of my teams towards [$Company] security objectives
 - Systems are reliable/observable, we use observable data to resolve incidents and recovery
 - When my team members do something unexpected and amazing for the benefit of others
-- Am I achieving my own personal G&Os for the year
+- Am I achieving my own personal goals and objectives for the year
 
 ### My management style
 
