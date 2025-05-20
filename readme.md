@@ -18,7 +18,7 @@ TL;DR: I am here to make sure our team is successful, engaged, and working on th
 
 - I maintain sustainable team delivery with high-quality and high-impact outcomes
 - I build skills of all team members, cross-training to avoid any knowledge-silos 
-- I am seen as an expert in Product Security, internally and externally to Target
+- I am seen as an expert in Product Security, internally and externally to [$company]
 - I have strong opinions, weakly held. I really like to question things, understand, and see an issue from all sides
 - I extend my personal leadership culture of positive & effective collaboration beyond my immediate team
 - I am accountable for the decisions the team make, even if I’m not the one making them most of the time (see the balancing of independence & coaching for more context)
